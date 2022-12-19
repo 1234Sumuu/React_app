@@ -24,3 +24,12 @@ function App() {
 }
 
 export default App;
+
+// import React from "react";
+// import ReactdOM from "react-dom/client";
+
+// function Hello(props){
+//   return <h1>Hello World!</h1>
+// }
+
+// ReactdOM.render(<Hello />, document.getElementById("root"));
